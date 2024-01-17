@@ -1,1 +1,1 @@
-# Course Work for Survey of Programming Languages course
+# Course Work for Survey of Programming Languages
